@@ -1,6 +1,6 @@
 # Mayın Tarlası
 
-- Mayın tarlası daha kolay bir şekilde yapılmış bir programdır. Geliştirmek isteyen bu programı kullanabilirler. Lütfen Mayın Tarlası ile ilgili yorumlarınızı epbalaban07@gmail.com adresine gönderin veya beni http://www.github.com/epbalaban01 veya http://www.formula1turkey.epizy.com adresinde bulabilirsiniz.
+Mayın tarlası daha kolay bir şekilde yapılmış bir programdır. Geliştirmek isteyen bu programı kullanabilirler. Lütfen Mayın Tarlası ile ilgili yorumlarınızı epbalaban07@gmail.com adresine gönderin veya beni http://www.github.com/epbalaban01 veya http://www.formula1turkey.epizy.com adresinde bulabilirsiniz.
 
 <b>Desteklenen Diller</b>
 - [x] Türkçe
